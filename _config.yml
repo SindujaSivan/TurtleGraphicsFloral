@@ -1,14 +1,14 @@
 theme: jekyll-theme-minimal
-title: Python College Analytics
+title: Turtle Graphics Floral
 description: >
-  <h3>College Data Analysis using basic python commandst</h3>
+  <h3> Rainbow Flower Drawing using Turtle Graphics </h3>
   <p>
     <br>
     <br>
     <b>Libraries:</b>
     <ul>
-      <li>Pandas</li>
-      <li>DataFrame</li>
+      <li>turtle</li>
+      <li>colrosys</li>
     </ul>
     <br>
   </p>
