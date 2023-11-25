@@ -39,5 +39,7 @@ turtle.bye()
 **Results:**
 The project successfully achieves its objective by creating an animated drawing of a flower with colorful petals. The colors transition through the rainbow spectrum, giving the flower a vibrant and visually appealing appearance.
 
+![Turtle_Floral](assets/Turtle_Floral.png)
+
 **Conclusion:**
 The project demonstrates the creative potential of Python's Turtle graphics library and how it can be used to create visually appealing animations. The combination of simple geometric shapes and color variations results in an aesthetically pleasing and interactive artwork. The project can be extended by adding more complex patterns, shapes, or interactivity for further exploration and artistic expression.
